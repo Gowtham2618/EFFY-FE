@@ -1,0 +1,43 @@
+.container-fluid {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    background-color: blueviolet !important;
+}
+
+.form-group--error {
+    border: 1px solid red;
+    border-radius: 5px;
+}
+
+.mx-input {
+    width: 100% !important;
+    font-size: 18px !important;
+    min-height: 40px !important;
+}
+
+.error-text {
+    color: red;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+}
+
+.multiselect__tags {
+    border: 1px solid #ced4da !important;
+    font-size: 1rem !important;
+}
+
+.multiselect__placeholder {
+    color: #555 !important;
+}
+
+.saveBtn {
+    background-color: blueviolet !important;
+}
+
+.bi-pencil-square,
+.bi-eye,
+.bi-trash {
+    cursor: pointer !important;
+}
